@@ -23,7 +23,7 @@ Pillow==13.0.0
 pylint==2.4.3
 python-dateutil==2.8.1
 pytz==2019.3
-requests==2.20.1
+requests==2.33.0
 selenium==3.141.0
 six==1.12.0
 softest==1.2.0.0
