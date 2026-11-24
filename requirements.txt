@@ -27,7 +27,7 @@ requests==2.20.1
 selenium==3.141.0
 six==1.12.0
 softest==1.2.0.0
-soupsieve==1.9.5
+soupsieve==4.0
 tinycss2==0.6.1
 transitions==0.6.9
 ua-parser==0.8.0
